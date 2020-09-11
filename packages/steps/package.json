@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "lg-steps-sylvanas",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "109b5af267ccb1ba62d0d1304ac29a588abbfd7e"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "lg-input",
+  "name": "lg-input-sylvanas",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "109b5af267ccb1ba62d0d1304ac29a588abbfd7e"
 }
